@@ -1,0 +1,1 @@
+export default function RecordsTable(){ return <div>Records</div>; }
